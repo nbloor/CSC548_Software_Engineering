@@ -1,0 +1,1 @@
+This folder contains the output and work for an assignment in the CSC 548 course. This assignment tasked me with creating a web-based application through SpringBoot that says either Good morning, good afternoon, or good evening based on the time of day.
