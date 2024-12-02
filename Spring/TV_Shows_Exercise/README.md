@@ -1,0 +1,1 @@
+This folder contains an exercise in SpringBoot and ThymeLeaf that was assigned as part of the CSC 548 course. In this assignment, I was tasked to create a MVC for a web-based application ran through SpringBoot which displayed a table of TV shows based on their ranking from IMDb.
