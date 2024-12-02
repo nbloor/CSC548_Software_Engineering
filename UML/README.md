@@ -1,1 +1,1 @@
-This folder is dedicated to the UML diagrams as discussed in the CSC 548 course.
+This folder is dedicated to the UML diagrams as discussed in the CSC 548 course. More specifically, it will contain exercises performed in the course which were used to teach concepts from these ideas.
